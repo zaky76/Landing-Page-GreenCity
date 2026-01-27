@@ -387,6 +387,11 @@ button.submit-btn:hover {
 
 /* Responsive Design */
 @media (max-width: 768px) {
+  i.fa-solid.fa-check {
+    width: 16px;
+    height: 16px;
+    line-height: 15px;
+  }
   .container {
     flex-direction: column;
   }
