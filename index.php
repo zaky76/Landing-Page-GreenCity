@@ -19,12 +19,12 @@
 
   <!-- Favicons -->
   <link type="image/x-icon" rel="shortcut icon"
-    href="{{ asset('assets/frontend/img/logo/Welcare Green City Favicon Icon-01.png') }}" />
+    href="assets/frontend/img/logo/Welcare Green City Favicon Icon-01.png" />
 
   <!-- Google Fonts -->
 
   <!-- Template Main CSS File -->
-  <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet" />
+  <link href="assets/css/style.css" rel="stylesheet" />
   <link href="./assets/css/landing-page.css" rel="stylesheet" />
   <link href="./assets/css/style.css" rel="stylesheet" />
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali&display=swap" rel="stylesheet" />
@@ -232,7 +232,6 @@
             </ul>
           </div>
         </div>
-
         <div class="near-loc why-choose padding-top">
           <h2 class="title">
             <i class="fa-solid fa-list"></i>ওয়েলকেয়ার গ্রীন সিটি প্রকল্প কেন
@@ -317,7 +316,6 @@
       </div>
       <aside class="sidebar">
         <h3 class="">যোগাযোগ</h3>
-
         <div class="info-item">
           <ul>
             <li class="choose-list">

@@ -5786,7 +5786,11 @@ h4.title-client-img {
     width: 500px !important;
   }
    .container {
-    width: 500px !important;
+    width: 900px !important;
+  }
+  .sidebar {
+    padding: 20px;
+    margin-left: 14px;
   }
   .drem_came_scl {
     margin: 310px 0px 0px 0px !important; 
@@ -6213,7 +6217,7 @@ h4.title-client-img {
     width: 500px !important;
   }
    .container {
-    width: 500px !important;
+    max-width: 700px !important;
   }
   .drem_came_scl {
     margin: 310px 0px 0px 0px !important; 
@@ -6621,7 +6625,7 @@ h4.title-client-img {
     width: 375px !important;
   }
   .container {
-    width: 375px !important;
+    width: 440px !important;
   }
   span.mobile-header-num {
     display: none;
